@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:3%;
+}
+
+nav a{
+    display: inline-block;
+    border-radius: 10px;
+    background-color: black;
+    margin: 3% 7.5%;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    height: auto;
+    font-size:23px;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+.plan{
+    background-color: #FF764E;
+}
+.learn{
+    background-color: #5ED3EB;
+}
+
+.get-involved{
+    background-color: #FFCD69;
+}
+
+#headerimg{
+    display: inline;
+    width: 350px;
+    border-radius: 70%;
+    margin: 3% 6%;
+    float: left; 
+}
+#intro{
+    display: inline;
+}
+
+#intro h1{
+     padding-top: 80px;
+     padding-left: 50px;
+     font-family: Chelsea Market, sans-serif;
+     font-size: 80px;
+}
+
+#intro p{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+#describe{
+    display:block;
+    font-size: 30px;
+    margin: 125px 0 0 0;
+    font-family: monospace;
+    background-color: #DDB9A3;
+    padding: 50px;
+    text-align: center;
+}
+
+#bottom-section img{
+    width: 200px;
+    margin: 30px 0 20px 43%
+}
+#bottom-section p{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+    padding-left: 375px;
+    padding-right: 375px;
+    padding-bottom: 50px;
+}
+
+
+
+
