@@ -8,15 +8,13 @@ body{
 nav a{
     display: inline-block;
     border-radius: 10px;
-    background-color: black;
-    margin: 3% 7.5%;
-    padding: 25px;
+    margin: 3% 7% 5%;
+    padding: 20px;
     text-align: center;
     color: white;
-    height: auto;
     font-size:23px;
     text-decoration: none;
-    font-family: monospace;
+    font-family: Roboto Mono;
 }
 
 .plan{
@@ -42,7 +40,6 @@ nav a{
 }
 
 #intro h1{
-     padding-top: 80px;
      padding-left: 50px;
      font-family: Chelsea Market, sans-serif;
      font-size: 80px;
@@ -51,17 +48,21 @@ nav a{
 #intro p{
     text-align: center;
     font-size: 30px;
-    font-family: monospace;
+    font-family: Roboto Mono;
 }
 
 #describe{
     display:block;
     font-size: 30px;
-    margin: 125px 0 0 0;
-    font-family: monospace;
+    margin: 125px 3% 0 3%;
+    font-family: Roboto Mono;
     background-color: #DDB9A3;
-    padding: 50px;
+    padding: 10px;
     text-align: center;
+}
+
+span{
+    font-weight:bolder;
 }
 
 #bottom-section img{
@@ -71,7 +72,7 @@ nav a{
 #bottom-section p{
     text-align: center;
     font-size: 30px;
-    font-family: monospace;
+    font-family: Roboto Mono;
     padding-left: 375px;
     padding-right: 375px;
     padding-bottom: 50px;
